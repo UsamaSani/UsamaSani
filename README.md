@@ -1,4 +1,4 @@
-# GitHub Portfolio 🌐🔒
+# Guarding the Digital Frontier, One Byte at a Time 🌐🔒
 - **Name**: Usama Sani
 - **Field of Study**: Cybersecurity (Bachelor's degree at Sindh Madressatul Islam University) 🔐
 - **Certifications**: 🎓 Google Cybersecurity Professional, Certified in Cybersecurity (CC), Cisco Introduction to Cybersecurity, JavaScript Essentials
@@ -21,20 +21,8 @@
 - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) **React**
 - ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) **Vite**
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) **Node.js**
-- **REST APIs**
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) **MySQL**
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) **MongoDB**
-
-### Cybersecurity Techniques
-- ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white) **Network Packet Analysis**
-- Threat Detection and Prevention Strategies
-- Vulnerability Assessment Tools
-
-### Software & Platforms
-- ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white) **Visual Studio Code**
-- ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) **Postman**
-- ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) **Linux**
-- **Windows OS**
 
 ## Stats 📊
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UsamaSani&show_icons=true&theme=radical)
