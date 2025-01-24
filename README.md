@@ -1,16 +1,38 @@
-## Hi there 👋
+## About Me 📘
+- **Name**: Usama Sani
+- **Field of Study**: Cybersecurity (Bachelor's degree at Sindh Madressatul Islam University) 🔐
+- **Certifications**: 🎓 Google Foundational Cybersecurity Professional, Certified in Cybersecurity (CC), Cisco Introduction to Cybersecurity, JavaScript Essentials
 
-<!--
-**UsamaSani/UsamaSani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tools & Technologies 🛠️
+### Programming Languages
+- **Web Development**: JavaScript, HTML, CSS
+- **General Purpose**: Python, Java
 
-Here are some ideas to get you started:
+### Tools & Frameworks
+- **Version Control**: Git, GitHub
+- **Frontend Tools**: React, Vite
+- **Backend & APIs**: Node.js, REST APIs
+- **Database Management**: MySQL, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Cybersecurity Techniques
+- Network Packet Analysis with Wireshark
+- Threat Detection and Prevention Strategies
+- Vulnerability Assessment Tools
+
+### Software & Platforms
+- Visual Studio Code
+- Postman
+- Linux & Windows OS
+
+## Stats 📊
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=radical)
+
+## Contact 📫
+- **LinkedIn**: https://www.linkedin.com/in/usama-khanzada-5b6552240
+- **Portfolio Website**: https://usamasani-soc-analyst.netlify.app/
+
+---
+
+Thank you for visiting my GitHub portfolio! Let's collaborate and innovate together. 🤝
+
