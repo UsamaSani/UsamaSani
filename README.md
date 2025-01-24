@@ -25,8 +25,8 @@
 - Linux & Windows OS
 
 ## Stats 📊
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[UsamaSani]&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[UsamaSani]&layout=compact&theme=radical)
 
 ## Contact 📫
 - **LinkedIn**: https://www.linkedin.com/in/usama-khanzada-5b6552240
