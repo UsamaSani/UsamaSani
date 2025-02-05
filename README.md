@@ -25,7 +25,6 @@
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) **MongoDB**
 
 ## Stats 📊
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UsamaSani&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UsamaSani&layout=compact&theme=radical)
 
 ## Contact 📫
@@ -34,5 +33,5 @@
 
 ---
 
-Thank you for visiting my GitHub portfolio! Let's collaborate and innovate together. 🤝
+Let's collaborate and innovate together. 🤝
 
