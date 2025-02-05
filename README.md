@@ -1,7 +1,7 @@
 # Guarding the Digital Frontier, One Byte at a Time 🌐🔒
 - **Name**: Usama Sani
 - **Field of Study**: Cybersecurity (Bachelor's degree at Sindh Madressatul Islam University) 🔐
-- **Certifications**: 🎓 Google Cybersecurity Professional, Certified in Cybersecurity (CC), Cisco Introduction to Cybersecurity, JavaScript Essentials
+- **Certifications**: 🎓  Certified in Cybersecurity (CC), Cisco Introduction to Cybersecurity, JavaScript Essentials
 
 
 ## About Me 📘
