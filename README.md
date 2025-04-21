@@ -1,3 +1,5 @@
+[![Stand With Palestine](https://github.com/standforhumanity/stand-with-palestine/blob/main/Banners/Banner1.svg)](https://stand-with-palestine.vercel.app)
+
 # Guarding the Digital Frontier, One Byte at a Time 🌐🔒
 - **Name**: Usama Sani
 - **Field of Study**: Cybersecurity (Bachelor's degree at Sindh Madressatul Islam University) 🔐
