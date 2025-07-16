@@ -15,7 +15,7 @@
 
 > "Securing tomorrow’s digital world through innovation and code."
 
-I am pursuing a **Bachelor's in Cybersecurity** at **Sindh Madressatul Islam University** (GPA: 3.66, Expected 2026). Concurrently, I’m mastering **Full-Stack Development** (HTML, CSS, JavaScript, React.js, Next.js) through Saylani Mass IT Training.
+I am pursuing a **Bachelor's in Cybersecurity** at **Sindh Madressatul Islam University** (GPA: 3.66, Expected 2027). Concurrently, I’m mastering **Full-Stack Development** (HTML, CSS, JavaScript, React.js, Next.js, Express.js) through Saylani Mass IT Training.
 
 * 🔭 *Software Engineer Assistant*: optimizing performance, debugging, and feature delivery.
 * 🌱 Passionate about **threat detection**, **incident response**, and **secure software development**.
