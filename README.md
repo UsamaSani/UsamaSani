@@ -1,69 +1,61 @@
-<!-- Professional and Animated README for GitHub Profile -->
+<!-- Professional GitHub Profile README -->
 
 <p align="center">
-  <!-- Animated Banner GIF -->
-  <img src="https://raw.githubusercontent.com/UsamaSani/UsamaSani/main/animated-banner.gif" alt="Animated Banner" />
+  <img src="https://raw.githubusercontent.com/UsamaSani/UsamaSani/main/profile-banner.png" alt="Profile Banner" width="100%" />
 </p>
 
 # 🔐 Guarding the Digital Frontier, One Byte at a Time
 
-**Usama Sani** | Cybersecurity Enthusiast & Full-Stack Developer
+**Usama Sani** &#x20;
+Cybersecurity Enthusiast & Full-Stack Developer
 
 ---
 
 ## 🎓 About Me
 
-> "Securing tomorrow’s digital world through innovation and code."
+> "Security isn’t just a job; it’s a commitment to a safer digital world."
 
-I am pursuing a **Bachelor's in Cybersecurity** at **Sindh Madressatul Islam University** (GPA: 3.66, Expected 2027). Concurrently, I’m mastering **Full-Stack Development** (HTML, CSS, JavaScript, React.js, Next.js, Express.js) through Saylani Mass IT Training.
-
-* 🔭 *Software Engineer Assistant*: optimizing performance, debugging, and feature delivery.
-* 🌱 Passionate about **threat detection**, **incident response**, and **secure software development**.
-* 💼 Apprenticed at Telnet Communication as a Computer Technician.
+* 👨‍🎓 **Bachelor’s in Cybersecurity**, Sindh Madressatul Islam University (GPA: 3.66, Expected 2027)
+* 💻 **Software Engineer Assistant** — Remote: debugging, performance optimization, and feature development
+* 🌱 Enrolled in **Saylani Mass IT Training** for Full-Stack Development (HTML, CSS, JavaScript, React.js, Next.js, Express.js)
+* 💼 Former **Computer Technician Apprentice** at Telnet Communication
 
 ---
 
 ## 🛠 Tools & Technologies
 
-<div align="center">
-  <!-- Animated Tech Icons Row -->
-  <img src="https://raw.githubusercontent.com/atomicptr/tech-icons-animated/master/tech-icons.gif" alt="Tech Icons" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
+</p>
 
 ---
 
 ## 🏆 Certifications & Achievements
 
-<div align="center">
-  <img src="https://www.credly.com/badges/b0c0486c-4623-4d73-a3da-f6e11a5f4b58/public_url" alt="ISC2 CC" />
-  <img src="https://www.credly.com/badges/b5a7bed0-524f-4b3e-a3e1-72b300d5357b/linked_in_profile" alt="Cisco" />
-  <img src="https://www.credly.com/badges/0cadcac5-a919-4635-aebd-ed0aa19a13e4/linked_in_profile" alt="JS Essentials" />
-  <img src="https://www.coursera.org/account/accomplishments/verify/YX4UOJQOSY3T" alt="IBM Linux" />
-  <img src="https://www.coursera.org/account/accomplishments/verify/C8WELAYE2F2B" alt="AI For Everyone" />
-  <img src="https://www.coursera.org/account/accomplishments/verify/922DK2WF0AZ6" alt="Incidence Response and Digital Forensic" />
-</div>
-
----
-
-## 📊 GitHub Activity & Stats
-
 <p align="center">
-  <!-- Contribution Calendar -->
-  <img src="https://ghchart.rshah.org/UsamaSani" alt="GitHub Contribution Chart" />
-</p>
-
-<p align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UsamaSani&theme=radical" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/ISC%C2%B2_Cybersecurity-CC-brightgreen" alt="ISC2 CC" />
+  <img src="https://img.shields.io/badge/Cisco_Cybersecurity-blue" alt="Cisco Cybersecurity" />
+  <img src="https://img.shields.io/badge/JavaScript_Essentials-yellow" alt="JS Essentials" />
+  <img src="https://img.shields.io/badge/IBM_Linux_Shell-blue" alt="IBM Linux" />
+  <img src="https://img.shields.io/badge/AI_For_Everyone-orange" alt="AI for Everyone" />
 </p>
 
 ---
 
-## 🚀 Animated Skill Charts
+## 📈 GitHub Stats
 
 <p align="center">
-  <!-- Example Bar Chart GIF -->
-  <img src="https://raw.githubusercontent.com/UsamaSani/UsamaSani/main/skill-chart.gif" alt="Skill Chart" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UsamaSani&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UsamaSani&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
@@ -85,5 +77,5 @@ I am pursuing a **Bachelor's in Cybersecurity** at **Sindh Madressatul Islam Uni
 ---
 
 <p align="center">
-  Made with ❤️ by **Usama Sani**
+  Made with 💙 by **Usama Sani**
 </p>
