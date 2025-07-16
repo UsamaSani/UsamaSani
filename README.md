@@ -1,11 +1,6 @@
 <!-- Professional GitHub Profile README -->
 
-<p align="center">
-  <!-- Ensure you have `profile-banner.png` in your repo's root or update the path below -->
-  <img src="https://raw.githubusercontent.com/UsamaSani/UsamaSani/main/profile-banner.png" alt="Profile Banner" />
-</p>
-
-# 🔐 Guarding the Digital Frontier, One Byte at a Time
+# Guarding the Digital Frontier, One Byte at a Time 🌐🔒
 
 **Usama Sani** &#x20;
 *Cybersecurity Enthusiast & Full-Stack Developer*
@@ -48,6 +43,7 @@
   <img src="https://img.shields.io/badge/JavaScript_Essentials-yellow" />
   <img src="https://img.shields.io/badge/IBM_Linux_Shell-blue" />
   <img src="https://img.shields.io/badge/AI_For_Everyone-orange" />
+  <img src="https://img.shields.io/badge/Incident_Response_And_Digital_Forensic-blue" />
 </p>
 
 ---
