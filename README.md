@@ -47,6 +47,7 @@ Cybersecurity Enthusiast & Full-Stack Developer
   <img src="https://img.shields.io/badge/JavaScript_Essentials-yellow" alt="JS Essentials" />
   <img src="https://img.shields.io/badge/IBM_Linux_Shell-blue" alt="IBM Linux" />
   <img src="https://img.shields.io/badge/AI_For_Everyone-orange" alt="AI for Everyone" />
+  <img src="https://img.shields.io/badge/Incident_Response_and_Digital_Forensic-blue" alt="Incident Response and Digital Forensic" />
 </p>
 
 ---
@@ -77,5 +78,5 @@ Cybersecurity Enthusiast & Full-Stack Developer
 ---
 
 <p align="center">
-  Made with 💙 by **Usama Sani**
+  Let's collaborate and innovate together. 🤝
 </p>
