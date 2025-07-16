@@ -35,11 +35,12 @@ I am pursuing a **Bachelor's in Cybersecurity** at **Sindh Madressatul Islam Uni
 ## 🏆 Certifications & Achievements
 
 <div align="center">
-  <img src="https://img.shields.io/badge/ISC²%20Cybersecurity-CC-brightgreen?logo=isc2" alt="ISC2 CC" />
-  <img src="https://img.shields.io/badge/Cisco%20Cybersecurity-blue?logo=cisco" alt="Cisco" />
-  <img src="https://img.shields.io/badge/JavaScript%20Essentials-yellow?logo=javascript" alt="JS Essentials" />
-  <img src="https://img.shields.io/badge/IBM%20Linux-blue?logo=ibm" alt="IBM Linux" />
-  <img src="https://img.shields.io/badge/AI%20For%20Everyone-orange?logo=coursera" alt="AI For Everyone" />
+  <img src="https://www.credly.com/badges/b0c0486c-4623-4d73-a3da-f6e11a5f4b58/public_url" alt="ISC2 CC" />
+  <img src="https://www.credly.com/badges/b5a7bed0-524f-4b3e-a3e1-72b300d5357b/linked_in_profile" alt="Cisco" />
+  <img src="https://www.credly.com/badges/0cadcac5-a919-4635-aebd-ed0aa19a13e4/linked_in_profile" alt="JS Essentials" />
+  <img src="https://www.coursera.org/account/accomplishments/verify/YX4UOJQOSY3T" alt="IBM Linux" />
+  <img src="https://www.coursera.org/account/accomplishments/verify/C8WELAYE2F2B" alt="AI For Everyone" />
+  <img src="https://www.coursera.org/account/accomplishments/verify/922DK2WF0AZ6" alt="Incidence Response and Digital Forensic" />
 </div>
 
 ---
