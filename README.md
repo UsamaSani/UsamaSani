@@ -9,8 +9,6 @@
 
 ## 🎓 About Me
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/4387420.png)
-
 > "Security isn’t just a job; it’s a commitment to a safer digital world."
 
 * 👨‍🎓 **Bachelor’s in Cybersecurity** at Sindh Madressatul Islam University (GPA: 3.66, Expected 2027)
