@@ -8,7 +8,8 @@
 ---
 
 ## 🎓 About Me
-![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4387420)
+
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/4387420.png)
 
 > "Security isn’t just a job; it’s a commitment to a safer digital world."
 
