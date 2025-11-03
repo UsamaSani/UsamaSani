@@ -13,7 +13,7 @@
 
 * 👨‍🎓 **Bachelor’s in Cybersecurity** at Sindh Madressatul Islam University (GPA: 3.66, Expected 2027)
 * 💻 **Software Engineer Assistant** — Remote; specializing in debugging, performance optimization, and feature development
-* 🌱 **Full-Stack Developer** in training: HTML, CSS, JavaScript, React.js, Next.js, Express.js
+* 🌱 **Full-Stack Developer** 
 * 💼 Former Computer Technician Apprentice at Telnet Communication
 
 ---
