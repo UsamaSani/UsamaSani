@@ -76,16 +76,7 @@ Alongside defensive security, I am actively building skills in **Web Application
 * **Computer Technician** | Telnet Communication (Karachi, Sindh, Pakistan)
   * *October 2017 – July 2019 (1 year 10 months)*
 
----
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UsamaSani&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsamaSani&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
 
 <p align="center">
   Connect with me on <a href="www.linkedin.com/in/usama-sani-khanzada-5b6552240">LinkedIn</a> or explore my work on my <a href="www.usamasani.tech/">Portfolio</a>.
