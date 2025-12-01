@@ -81,8 +81,8 @@ Alongside defensive security, I am actively building skills in **Web Application
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UsamaSani&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsamaSani&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UsamaSani&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsamaSani&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
