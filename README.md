@@ -22,12 +22,12 @@
 
 ### 🔎 Professional Summary
 
-[cite_start]I am a **SOC Analyst L1** with hands-on experience using **SIEM (Splunk, Wazuh)** and **EDR platforms (CrowdStrike, SentinelOne)** to identify threats, analyze security alerts, and strengthen overall security posture[cite: 15, 18]. [cite_start]My focus is on turning raw logs into meaningful insights that drive effective threat mitigation[cite: 19].
+I am a **SOC Analyst L1** with hands-on experience using **SIEM (Splunk, Wazuh)** and **EDR platforms (CrowdStrike, SentinelOne)** to identify threats, analyze security alerts, and strengthen overall security posture. My focus is on turning raw logs into meaningful insights that drive effective threat mitigation.
 
-[cite_start]Alongside defensive security, I am actively building skills in **Web Application Pentesting**, leveraging tools like **Burp Suite, Nmap, and Nessus** to uncover vulnerabilities and apply the principles of the **OWASP Top 10**[cite: 15, 16, 20].
+Alongside defensive security, I am actively building skills in **Web Application Pentesting**, leveraging tools like **Burp Suite, Nmap, and Nessus** to uncover vulnerabilities and apply the principles of the **OWASP Top 10**.
 
-* [cite_start]🔭 **Current Goal:** Grow into a role contributing to both defensive operations and secure application development[cite: 22].
-* [cite_start]🤝 **Core Skills:** Information Security[cite: 8], Vulnerability Assessment, Threat Mitigation, Web Development (MERN Stack).
+* 🔭 **Current Goal:** Grow into a role contributing to both defensive operations and secure application development.
+* 🤝 **Core Skills:** Information Security, Vulnerability Assessment, Threat Mitigation, Web Development (MERN Stack).
 
 ---
 
@@ -37,10 +37,10 @@
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **SIEM / Monitoring** | [cite_start]Splunk, Wazuh  |
-| **EDR / Endpoint** | [cite_start]CrowdStrike, SentinelOne  |
-| **Pentesting / Audit** | [cite_start]Burp Suite, Nmap, Nessus, OWASP Top 10 [cite: 15, 16, 20] |
-| **Concepts** | [cite_start]Incident Response, Digital Forensics [cite: 11] |
+| **SIEM / Monitoring** | Splunk, Wazuh |
+| **EDR / Endpoint** | CrowdStrike, SentinelOne |
+| **Pentesting / Audit** | Burp Suite, Nmap, Nessus, OWASP Top 10 |
+| **Concepts** | Incident Response, Digital Forensics |
 
 #### **Development Stack (Full-Stack Foundation)**
 <p>
@@ -58,23 +58,23 @@
 
 ### 🎓 Education & Training
 
-* [cite_start]**B.S. in Computer Science, Cyber Security** — Sindh Madressatul Islam University (Feb 2023 - Feb 2027) [cite: 28, 29]
-* [cite_start]**MERN Stack Training** — Saylani Mass I.T Training (S.M.I.T) (Feb 2024 - Feb 2025) [cite: 30, 31]
+* **B.S. in Computer Science, Cyber Security** — Sindh Madressatul Islam University (Feb 2023 - Feb 2027)
+* **MERN Stack Training** — Saylani Mass I.T Training (S.M.I.T) (Feb 2024 - Feb 2025)
 
 ### 🏅 Certifications & Achievements
 
-* [cite_start]**Certified Cybersecurity (CC)** — ISC² [cite: 10]
-* [cite_start]**Incident Response and Digital Forensics** [cite: 11]
-* [cite_start]**JavaScript Essentials 1** [cite: 10]
-* [cite_start]**Introduction to Cybersecurity** [cite: 13]
-* [cite_start]**Certificate of Participation in Hackathon** [cite: 12]
+* **Certified Cybersecurity (CC)** — ISC²
+* **Incident Response and Digital Forensics**
+* **JavaScript Essentials 1**
+* **Introduction to Cybersecurity**
+* **Certificate of Participation in Hackathon**
 
 ---
 
 ### 💼 Experience
 
-* **Computer Technician** | [cite_start]Telnet Communication (Karachi, Sindh, Pakistan) [cite: 24, 26]
-  * [cite_start]*October 2017 – July 2019 (1 year 10 months)* [cite: 26]
+* **Computer Technician** | Telnet Communication (Karachi, Sindh, Pakistan)
+  * *October 2017 – July 2019 (1 year 10 months)*
 
 ---
 
@@ -88,5 +88,5 @@
 ---
 
 <p align="center">
-  [cite_start]Connect with me on <a href="www.linkedin.com/in/usama-sani-khanzada-5b6552240">LinkedIn</a> [cite: 3, 4] [cite_start]or explore my work on my <a href="www.usamasani.tech/">Portfolio</a>[cite: 4].
+  Connect with me on <a href="www.linkedin.com/in/usama-sani-khanzada-5b6552240">LinkedIn</a> or explore my work on my <a href="www.usamasani.tech/">Portfolio</a>.
 </p>
